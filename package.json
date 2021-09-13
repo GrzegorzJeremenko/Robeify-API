@@ -1,0 +1,30 @@
+{
+  "name": "robeify-api",
+  "version": "1.0.0",
+  "description": "Api for robeify app.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.1",
+    "mongoose": "^6.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrzegorzJeremenko/Robeify-API.git"
+  },
+  "keywords": [
+    "robeify",
+    "api",
+    "robeifyapi"
+  ],
+  "author": "Grzegorz Jeremenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrzegorzJeremenko/Robeify-API/issues"
+  },
+  "homepage": "https://github.com/GrzegorzJeremenko/Robeify-API#readme"
+}
